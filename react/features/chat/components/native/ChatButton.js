@@ -23,7 +23,7 @@ type Props = AbstractButtonProps & {
     _displayChat: Function,
 
     /**
-     * Function to diaply the name prompt before displaying the chat
+     * Function to display the name prompt before displaying the chat
      * window, if the user has no display name set.
      */
     _displayNameInputDialog: Function,
